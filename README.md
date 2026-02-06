@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Estou estudando linguagem de programação, JavaScript, Html, CSS, React, Python
-- Estou iniciando na área de tecnologia, não sei tudo, mas posso aprender tudo!
+- 🌱 Estou estudando lógica de programação, JavaScript, Html, CSS, React, Python e Computação em Nuvem.
+- Estou em expansão expansão para a área de tecnologia, não sei tudo, mas posso aprender!
 
 <div align="center">
   <a href="https://github.com/letikayo">
